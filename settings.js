@@ -9,10 +9,10 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6282113821188'] //['628','628'] 2 owner
-global.packname = 'Bot WhatsApp'
-global.author = 'Nazedev'
-global.botname = 'Naze Bot'
+global.owner = ['62895328876970'] //['628','628'] 2 owner
+global.packname = 'Matcha'
+global.author = 'ShaaLenathea'
+global.botname = 'Matcha BOT'
 global.listprefix = ['+','!','.']
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
@@ -28,10 +28,10 @@ global.fake = {
 }
 
 global.my = {
-	yt: 'https://youtube.com/c/Nazedev',
-	gh: 'https://github.com/nazedev',
-	gc: 'https://chat.whatsapp.com/B5qJIwZHm4VEYZJQE6iMwy',
-	ch: '120363250409960161@newsletter',
+	yt: 'https://youtube.com/@GxyenDEV',
+	gh: 'https://github.com/Gxyenn',
+	gc: 'https://chat.whatsapp.com/CsDZZL74jKmF0sRMKr4tPY',
+	ch: '120363334736301537@newsletter',
 }
 
 global.limit = {
@@ -48,16 +48,16 @@ global.uang = {
 
 global.mess = {
 	key0: 'Apikey mu telah habis silahkan kunjungi\nhttps://my.hitori.pw',
-	owner: 'Fitur Khusus Owner!',
-	admin: 'Fitur Khusus Admin!',
+	owner: 'Fitur Khusus Owner! oon',
+	admin: 'Fitur Khusus Admin! oon',
 	botAdmin: 'Bot Bukan Admin!',
-	group: 'Gunakan Di Group!',
+	group: 'Gunakan Di Group! oon',
 	private: 'Gunakan Di Privat Chat!',
 	limit: 'Limit Anda Telah Habis!',
 	prem: 'Khusus User Premium!',
 	wait: 'Loading...',
 	error: 'Error!',
-	done: 'Done'
+	done: 'Done ya kak'
 }
 
 global.APIs = {
