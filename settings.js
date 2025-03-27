@@ -10,9 +10,9 @@ const chalk = require('chalk');
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
 global.owner = ['62895328876970'] //['628','628'] 2 owner
-global.packname = 'Matcha'
-global.author = 'ShaaLenathea'
-global.botname = 'Matcha BOT'
+global.packname = 'Matcha BOT'
+global.author = 'wa.me/62895328876970'
+global.botname = 'Matchalatte'
 global.listprefix = ['+','!','.']
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
